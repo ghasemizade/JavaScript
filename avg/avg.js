@@ -11,4 +11,4 @@ var num4 = Number(input4)
 var sum = num1 + num2 + num3 + num4;
 var avg = sum / 4;
 
-alert("average of number input:"+avg)
+alert("average of number:"+avg)
